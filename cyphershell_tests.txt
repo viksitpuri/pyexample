@@ -1,0 +1,67 @@
+c:\Neo\neo4j-enterprise-3.1.0\bin>.\neo4j-shell -file C:\Users\viksitpuri\Documents\Customers\ScienceLogic\test2_cypher.txt
+WARNING: This command does not appear to be running with administrative rights.  Some commands may fail e.g. Start/Stop
++-------------------+
+| No data returned. |
++-------------------+
+Nodes deleted: 403
+Relationships deleted: 1200
+7 ms
++-------------------+
+| No data returned. |
++-------------------+
+Nodes created: 403
+Properties set: 403
+Labels added: 403
+5 ms
++-------------------+
+| No data returned. |
++-------------------+
+Relationships created: 1200
+Properties set: 2400
+18 ms
+
+c:\Neo\neo4j-enterprise-3.1.0\bin>.\neo4j-shell -file C:\Users\viksitpuri\Documents\Customers\ScienceLogic\test2_cypher.txt
+WARNING: This command does not appear to be running with administrative rights.  Some commands may fail e.g. Start/Stop
++-------------------+
+| No data returned. |
++-------------------+
+Nodes deleted: 403
+Relationships deleted: 1200
+6 ms
++-------------------+
+| No data returned. |
++-------------------+
+Nodes created: 403
+Properties set: 403
+Labels added: 403
+5 ms
++-------------------+
+| No data returned. |
++-------------------+
+Relationships created: 1200
+Properties set: 2400
+17 ms
+
+c:\Neo\neo4j-enterprise-3.1.0\bin>.\neo4j-shell -file C:\Users\viksitpuri\Documents\Customers\ScienceLogic\test2_cypher.txt
+WARNING: This command does not appear to be running with administrative rights.  Some commands may fail e.g. Start/Stop
++-------------------+
+| No data returned. |
++-------------------+
+Nodes deleted: 403
+Relationships deleted: 1200
+6 ms
++-------------------+
+| No data returned. |
++-------------------+
+Nodes created: 403
+Properties set: 403
+Labels added: 403
+5 ms
++-------------------+
+| No data returned. |
++-------------------+
+Relationships created: 1200
+Properties set: 2400
+16 ms
+
+c:\Neo\neo4j-enterprise-3.1.0\bin>
